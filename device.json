@@ -1,0 +1,9 @@
+{
+  "$set": {
+    "options": {
+      "port": "/dev/tty.usbmodem1451",
+      "baud": 57600,
+      "delimiter": "\\r\\n"
+    }
+  }
+}
